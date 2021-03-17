@@ -1,0 +1,15 @@
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ContaBancariaDIO.deps.json
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ContaBancariaDIO.runtimeconfig.json
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ContaBancariaDIO.runtimeconfig.dev.json
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ContaBancariaDIO.dll
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ref/ContaBancariaDIO.dll
+/Users/omarion111/Downloads/ContaBancariaDIO/bin/Debug/net5.0/ContaBancariaDIO.pdb
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.csprojAssemblyReference.cache
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.AssemblyInfoInputs.cache
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.AssemblyInfo.cs
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.csproj.CoreCompileInputs.cache
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.dll
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ref/ContaBancariaDIO.dll
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.pdb
+/Users/omarion111/Downloads/ContaBancariaDIO/obj/Debug/net5.0/ContaBancariaDIO.genruntimeconfig.cache
